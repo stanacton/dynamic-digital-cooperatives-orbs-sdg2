@@ -1,0 +1,10 @@
+{
+    "ContractName": "Orders",
+    "MethodName": "write",
+    "Arguments": [
+        {
+            "Type": "string",
+            "Value": "{\"Commodity\":\"coffee\",\"ID\":\"coffee\",\"BidPrice\":\"40.32\",\"Quantity\":\"1000\",\"Unit\":\"kgs\",\"BuyerID\":\"buyer1\"}"
+            }
+    ]
+}

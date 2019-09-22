@@ -1,0 +1,10 @@
+{
+    "ContractName": "CoOps",
+    "MethodName": "write",
+    "Arguments": [
+        {
+            "Type": "string",
+            "Value": "{\"Name\":\"pineapples\",\"ID\":\"pineapples\",\"Participants\":[{\"ID\":\"USER33\",\"Name\":\"Paula Anderson\",\"Quantity\":\"45\",\"QuantityDesc\":\"45kgs\",\"MinPrice\":\"34\"}]}"
+        }
+    ]
+}
